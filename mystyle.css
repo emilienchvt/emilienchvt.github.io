@@ -1,0 +1,9 @@
+.title {
+  color:red;
+}
+
+.title2 {
+  color:green;
+  border-style: dotted;
+  width: 120px;
+}
